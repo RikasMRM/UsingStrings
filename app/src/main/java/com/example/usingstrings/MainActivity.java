@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.TextView;
 
+//This is my tute 1
 public class MainActivity extends AppCompatActivity {
 
     TextView txtView2;
